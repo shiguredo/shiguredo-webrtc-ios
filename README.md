@@ -14,10 +14,10 @@ Add the following line to Cartfile.
 
 ```ruby
 # Without version
-github "shiguredo/sora-webrtc-ios"
+github "shiguredo/shiguredo-webrtc-ios"
 
 # With Version
-github "shiguredo/sora-webrtc-ios" "76.3.0"
+github "shiguredo/shiguredo-webrtc-ios" "76.3.1"
 ```
 
 ### CocoaPods
@@ -39,7 +39,7 @@ Then you can add the following line to `Podfile` as follows:
 pod 'WebRTC'
 
 # With version
-pod 'WebRTC', '= 76.3.0'
+pod 'WebRTC', '= 76.3.1'
 ```
 
 ### Manual Download
@@ -48,7 +48,6 @@ Available from [releases](https://github.com/shiguredo/sora-webrtc-ios/releases)
 
 ## "Development" version (iOS)
 
-Some releases are always comes with its "development" variants, for example `76.3.0` and `76.3.0-dev`. Development variants are smaller binaries, which:
+Some releases are always comes with its "development" variants, for example `76.3.1` and `76.3.1-dev`. Development variants are smaller binaries, which:
 
 - bitcode is stripped off and not available
-- support arm64 only (no armv7)

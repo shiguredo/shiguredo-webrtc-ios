@@ -9,6 +9,12 @@
 - FIX
     - バグ修正
 
+# 76.3.1
+
+- [CHANGE] アーキテクチャから arm_v7 を除いた
+
+- [CHANGE] アーキテクチャに x86_64 を追加した
+
 # 76.3.0
 
 M76 (commit position 3, `9863f3d246e2da7a2e1f42bbc5757f6af5ec5682`)
