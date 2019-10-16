@@ -9,6 +9,10 @@
 - FIX
     - バグ修正
 
+# 78.8.0
+
+M78 (commit position 8, `0b2302e5e0418b6716fbc0b3927874fd3a842caf`)
+
 # 76.3.1
 
 - [CHANGE] アーキテクチャから arm_v7 を除いた
