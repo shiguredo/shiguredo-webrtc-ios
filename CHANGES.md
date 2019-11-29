@@ -9,6 +9,10 @@
 - FIX
     - バグ修正
 
+# 78.8.1
+
+- [CHANGE] アーキテクチャに armv7 と x86 を追加した
+
 # 78.8.0
 
 M78 (commit position 8, `0b2302e5e0418b6716fbc0b3927874fd3a842caf`)
