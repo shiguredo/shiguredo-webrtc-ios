@@ -9,6 +9,10 @@
 - FIX
     - バグ修正
 
+# 79.5.0
+
+M79 (commit position 5, `b484ec0082948ae086c2ba4142b4d2bf8bc4dd4b`)
+
 # 78.8.1
 
 - [CHANGE] アーキテクチャに armv7 と x86 を追加した

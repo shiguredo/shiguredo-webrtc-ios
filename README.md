@@ -4,7 +4,7 @@ This repository provides built WebRTC libraries which is configured for [WebRTC 
 
 ## Supperted WebRTC Version
 
-M78 (commit position 8, `0b2302e5e0418b6716fbc0b3927874fd3a842caf`)
+M79 (commit position 5, `b484ec0082948ae086c2ba4142b4d2bf8bc4dd4b`)
 
 ## How to Use
 
@@ -17,7 +17,7 @@ Add the following line to Cartfile.
 github "shiguredo/shiguredo-webrtc-ios"
 
 # With Version
-github "shiguredo/shiguredo-webrtc-ios" "78.8.0"
+github "shiguredo/shiguredo-webrtc-ios" "79.5.0"
 ```
 
 ### CocoaPods
@@ -39,7 +39,7 @@ Then you can add the following line to `Podfile` as follows:
 pod 'WebRTC'
 
 # With version
-pod 'WebRTC', '= 76.3.1'
+pod 'WebRTC', '= 79.5.0'
 ```
 
 ### Manual Download
