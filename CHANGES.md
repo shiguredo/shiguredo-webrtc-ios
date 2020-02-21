@@ -9,6 +9,12 @@
 - FIX
     - バグ修正
 
+# 79.5.0-shiguredo
+
+- [CHANGE] マイクの初期化を任意に行うパッチを適用した
+
+- [CHANGE] ``RTCAudioSession``: ``initializeInput(_:)`` を追加した
+
 # 79.5.0
 
 M79 (commit position 5, `b484ec0082948ae086c2ba4142b4d2bf8bc4dd4b`)
